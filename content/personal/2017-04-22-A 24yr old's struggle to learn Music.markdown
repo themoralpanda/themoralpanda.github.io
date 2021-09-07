@@ -17,8 +17,7 @@ tags:
 
 Firstly listen to the below wonderful piece composed by [Ludovico Einaudi](http://www.ludovicoeinaudi.com/ "Ludovico Einaudi")
 
-
-{% include video id="X1DRDcGlSsE" provider="youtube" %}
+{{< youtube "X1DRDcGlSsE" >}}
 
 Did you notice the talent? The involvement? The fingers moving effortlessly with absolute passion for the tune? The background orchestra supporting like pillars of a beautiful monument? The violins and cellos. This is a thing of a beauty. Now this is one beautiful example of a sincere and a passionate work. Isn't it?
 
