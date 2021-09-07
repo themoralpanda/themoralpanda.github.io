@@ -1,0 +1,14 @@
+{{ partial "header.html" . }}
+
+<section class="blog-post">
+    <h3>{{ .Title }}</h3>
+    <div class="blog-post-subheader" style="font-size:0.65em;">
+        published on {{ .Date.Format (.Site.Params.dateform | default "January 2, 2006") }}
+    </div>
+    <div class="blog-post-content" style="margin-top:5%">
+        {{ .Content }}
+    </div>
+</section>
+
+{{partial "signature.html" .}}
+{{ partial "footer.html" . }}

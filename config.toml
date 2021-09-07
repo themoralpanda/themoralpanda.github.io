@@ -1,0 +1,8 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Vig Venkat"
+theme = "elephants"
+publishDir = "docs"
+staticDir = "static"
+[params]
+    sitename = "Vig Venkat"

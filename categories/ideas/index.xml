@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ideas on </title>
+    <link>/categories/ideas/</link>
+    <description>Recent content in Ideas on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jun 2015 05:35:10 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/ideas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stop The Goddamn Car !</title>
+      <link>/2015-06-17-stop-the-goddamn-car/</link>
+      <pubDate>Wed, 17 Jun 2015 05:35:10 +0000</pubDate>
+      
+      <guid>/2015-06-17-stop-the-goddamn-car/</guid>
+      <description>Ever felt really bad after a stupid argument? over a stupid topic? with your close ones? Ever felt so exhausted after such bad moments and started to regret things? I also have encountered such moments. I recently got an important advice from my dad which was more like a solution to such kind of problems. So I thought I could share it with the world.
+I admired these words so much and tried to understand it better.</description>
+    </item>
+    
+    <item>
+      <title>Inspiration from within !</title>
+      <link>/2015-04-20-inspiration-from-within/</link>
+      <pubDate>Mon, 20 Apr 2015 06:40:23 +0000</pubDate>
+      
+      <guid>/2015-04-20-inspiration-from-within/</guid>
+      <description>In my opinion, clearly no person other than Steve Jobs will be remembered by the world for what he did to technology and design. No other batsman other than Sachin Tendulkar is rightly portrayed to be the &amp;lsquo;God of Cricket&amp;rsquo; for what he did to the game and for Indian cricket. No one other than Narayana Murthy will be appreciated in India as much for being a role model and perfect entrepreneur in the Indian IT industry.</description>
+    </item>
+    
+  </channel>
+</rss>
