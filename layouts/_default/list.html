@@ -1,0 +1,23 @@
+
+{{ partial "header.html" . }}
+<style>
+    .underline-on-hover:hover {
+    text-decoration: underline;
+    cursor: pointer; 
+}
+</style>
+
+<h5 style="text-decoration: underline; margin-top:10%">Blog</h5>
+
+<ul>    
+    {{ range .Pages }}
+        <li>
+            <span onclick='location.href={{.Permalink}}' class="underline-on-hover" > {{.Title}}  <span style="font-size: 0.65em;"> | {{.Date.Format "Jan 2, 2006"}}</span></span>
+            <br/>
+            <br/>
+        </li>
+    {{ end }}
+    </ul>
+
+{{ partial "footer.html" . }}
+

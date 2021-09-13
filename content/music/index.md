@@ -1,8 +1,24 @@
 ---
 title: Music productions
 date: 2019-01-31T14:15:35+05:30
-tags: disable
+layout: single_without_back_button
 ---
+
+---
+
+**Aditi Song**\
+\
+Date: 11 Sept 2021
+
+{{< youtube "m-RoBDSxT6o" >}}
+
+---
+
+**Cool Punk - 2021!**\
+\
+Date: 13 Mar 2021
+
+{{< youtube "opiZgLDFZsY" >}}
 
 ---
 
