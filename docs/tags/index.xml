@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Vig Venkat</title>
-    <link>vigvenkat.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Vig Venkat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="vigvenkat.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Experience</title>
-      <link>vigvenkat.com/tags/experience/</link>
+      <link>/tags/experience/</link>
       <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>vigvenkat.com/tags/experience/</guid>
+      <guid>/tags/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introspection</title>
-      <link>vigvenkat.com/tags/introspection/</link>
+      <link>/tags/introspection/</link>
       <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>vigvenkat.com/tags/introspection/</guid>
+      <guid>/tags/introspection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Motivation</title>
-      <link>vigvenkat.com/tags/motivation/</link>
+      <link>/tags/motivation/</link>
       <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>vigvenkat.com/tags/motivation/</guid>
+      <guid>/tags/motivation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ideas</title>
-      <link>vigvenkat.com/tags/ideas/</link>
+      <link>/tags/ideas/</link>
       <pubDate>Wed, 17 Jun 2015 05:35:10 +0000</pubDate>
       
-      <guid>vigvenkat.com/tags/ideas/</guid>
+      <guid>/tags/ideas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Philosophy</title>
-      <link>vigvenkat.com/tags/philosophy/</link>
+      <link>/tags/philosophy/</link>
       <pubDate>Wed, 17 Jun 2015 05:35:10 +0000</pubDate>
       
-      <guid>vigvenkat.com/tags/philosophy/</guid>
+      <guid>/tags/philosophy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SelfImprovement</title>
-      <link>vigvenkat.com/tags/selfimprovement/</link>
+      <link>/tags/selfimprovement/</link>
       <pubDate>Wed, 17 Jun 2015 05:35:10 +0000</pubDate>
       
-      <guid>vigvenkat.com/tags/selfimprovement/</guid>
+      <guid>/tags/selfimprovement/</guid>
       <description></description>
     </item>
     
