@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Vig Venkat</title>
-    <link>/categories/</link>
+    <link>vigvenkat.com/categories/</link>
     <description>Recent content in Categories on Vig Venkat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="vigvenkat.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Experience</title>
-      <link>/categories/experience/</link>
+      <link>vigvenkat.com/categories/experience/</link>
       <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/experience/</guid>
+      <guid>vigvenkat.com/categories/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal</title>
-      <link>/categories/personal/</link>
+      <link>vigvenkat.com/categories/personal/</link>
       <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/personal/</guid>
+      <guid>vigvenkat.com/categories/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ideas</title>
-      <link>/categories/ideas/</link>
+      <link>vigvenkat.com/categories/ideas/</link>
       <pubDate>Wed, 17 Jun 2015 05:35:10 +0000</pubDate>
       
-      <guid>/categories/ideas/</guid>
+      <guid>vigvenkat.com/categories/ideas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Philosophy</title>
-      <link>/categories/philosophy/</link>
+      <link>vigvenkat.com/categories/philosophy/</link>
       <pubDate>Wed, 17 Jun 2015 05:35:10 +0000</pubDate>
       
-      <guid>/categories/philosophy/</guid>
+      <guid>vigvenkat.com/categories/philosophy/</guid>
       <description></description>
     </item>
     
